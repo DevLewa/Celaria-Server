@@ -1,7 +1,7 @@
 # Celaria Server
 
 This is the source code of the standalone multiplayer server for the Game "Celaria". (https://www.celaria.com)
-of modding the server sided multiplayer functionality of the game 
+of modding the server sided multiplayer functionality of the game. 
 
 This server source code was released for the purposes of modding the server sided multiplayer functionality of the game.
 
@@ -22,5 +22,5 @@ public static final boolean MODIFIED = true;
 
 
 ### Dependencies
-There are sections of the source code wich are dependend on "Gson" so you will have to link the project against a build of this library:
+There are sections of the source code which are dependend on "Gson" so you will have to link the project against a build of this library:
 https://github.com/google/gson
